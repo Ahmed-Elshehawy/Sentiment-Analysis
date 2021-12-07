@@ -1,0 +1,4 @@
+outs:
+- md5: a6c539d93452199b7e8f343622032ebc
+  size: 33678267
+  path: reviews.txt
