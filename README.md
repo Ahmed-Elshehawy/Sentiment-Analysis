@@ -7,10 +7,11 @@
 * [install docker](https://docs.docker.com/engine/install/) on your machine.
 * download the 'dockerized' directory.
 * open your terminal.
-* change directory to the 'dockerized' directory.
+* change directory to the 'dockerized' directory
 * run `docker build -t <your image name> .`
 * run `docker create -p 1111:1111 --name <your container name> <your image name>`
 * run `docker start <your container name>`
+* open `http://localhost:1111/` in your browser
 
 to stop the app:
 run `docker stop <your container name>`
