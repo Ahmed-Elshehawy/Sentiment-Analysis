@@ -18,7 +18,7 @@ run `docker stop <your container name>`
 
 ### Examples:
 * positive example
-[postitive](assets/positive.png)
+![postitive](assets/positive.png)
 
 * negative Example
-[negative](assets/negative.png)
+![negative](assets/negative.png)
