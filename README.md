@@ -15,3 +15,10 @@
 
 to stop the app:
 run `docker stop <your container name>`
+
+### Examples:
+* positive example
+[](assets/positive.png)
+
+* negative Example
+[](assets/negative.png)
